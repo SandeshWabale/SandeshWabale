@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sandesh
 
-🎓 2nd Year Chemical Engineering Undergraduate at NIT Surat (SVNIT)  
-💡 Passionate about Data Science, Machine Learning & Deep Learning  
+🎓 3rd Year Chemical Engineering Undergraduate at NIT Surat (SVNIT)  
+💡 Passionate about Data Analytics, Machine Learning & Deep Learning  
 🚀 Exploring AI-driven solutions in Engineering  
 
 ---
